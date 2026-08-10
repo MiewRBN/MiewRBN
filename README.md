@@ -20,7 +20,7 @@
 
 I am an Informatics student at **Universitas Siliwangi** (Batch 2023) based in Majalengka, Indonesia 🇮🇩. I enjoy combining creativity with logic to build digital masterpieces—ranging from responsive web applications and automated data systems, to immersive 3D experiences.
 
-- 🎓 Currently preparing for my thesis proposal defense!
+- 🎓 Currently preparing for my undergraduate thesis proposal defense!
 - 🤖 **AI Trainer** for Indonesian Writers at Outlier (Evaluating and refining LLM reasoning)
 - 🏔️ Fun fact: I got into 3D modeling out of pure curiosity and ended up building a 1:1 digital replica of my campus in Roblox! When offline, I enjoy mountain climbing (but please, no spicy food on the trail 🌶️🚫).
 
@@ -49,13 +49,13 @@ I am an Informatics student at **Universitas Siliwangi** (Batch 2023) based in M
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏥 Monev SPM Kemenkes 2026</h3>
       <p>Spearheaded a fully automated, national-scale data distribution and monitoring system for the Ministry of Health Republic of Indonesia, integrating reporting pipelines across thousands of Puskesmas and Dinkes.</p>
       <p>Features dynamic template distribution, robust multi-tiered permission handling, automated quarterly email notifications, and a dedicated dashboard for data entry and validation by Dinkes for Puskesmas.</p>
       <p><i>Google Apps Script, Google Workspace APIs, System Architecture</i></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏢 Perfect Garment Accessories</h3>
       <p>A modern, responsive company profile website developed for a garment accessories business, showcasing products and company information effectively.</p>
       <p><i>React, Tailwind CSS</i></p>
@@ -63,26 +63,26 @@ I am an Informatics student at **Universitas Siliwangi** (Batch 2023) based in M
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏛️ UNSIL Kampus 2 (Roblox)</h3>
       <p>A highly detailed 1:1 digital 3D replica of Universitas Siliwangi Kampus 2 built to provide a virtual tour experience for new students.</p>
       <p><i>Roblox Studio, Lua, Blender</i></p>
-      <p><i><a href="https://www.roblox.com/share?code=40ee36eb2dff294dbb78149939b88662&type=ExperienceDetails&stamp=1786362355498" target="_blank">https://www.roblox.com/share?code=40ee36eb2dff294dbb78149939b88662&type=ExperienceDetails&stamp=1786362355498</a></i></p>
+      <p><i><a href="https://www.roblox.com/share?code=40ee36eb2dff294dbb78149939b88662&type=ExperienceDetails&stamp=1786362355498" target="_blank">View on Roblox</a></i></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🌍 VISTA (Urban Vitality Index)</h3>
       <p>An AI Pipeline and WebGIS Dashboard to measure the Urban Vitality Index of TOD areas in Bandung. Uses Google Street View scraping, Computer Vision (SegFormer), and KD-Tree Spatial Analysis.</p>
       <p><i>Python, OpenCV, HuggingFace, OSMnx</i></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏄 Explore Batukaras</h3>
       <p>A comprehensive digital tourism platform featuring interactive maps for surfers, accommodations, and local culinary spots. Inspired by my KKN deployment.</p>
       <p><i>React, Tailwind CSS</i></p>
       <p><i><a href="https://www.explorebatukaras.com/" target="_blank">explorebatukaras.com</a></i></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📊 IG Like Counter (HAB 80)</h3>
       <p>A real-time automated scraping and evaluation system for the Kemenag National Content Creator competition using Instagram API.</p>
       <p><i>Python, Selenium, Automation</i></p>
