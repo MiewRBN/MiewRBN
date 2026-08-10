@@ -95,12 +95,12 @@ I am an Informatics student at **Universitas Siliwangi** (Batch 2023) based in M
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiewRBN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MiewRBN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&random=123" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiewRBN&theme=radical&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiewRBN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MiewRBN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&random=123" height="150" alt="Top Languages" />
 </div>
 
 <br>
