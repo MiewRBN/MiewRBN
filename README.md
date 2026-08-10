@@ -67,6 +67,7 @@ I am an Informatics student at **Universitas Siliwangi** (Batch 2023) based in M
       <h3>🏛️ UNSIL Kampus 2 (Roblox)</h3>
       <p>A highly detailed 1:1 digital 3D replica of Universitas Siliwangi Kampus 2 built to provide a virtual tour experience for new students.</p>
       <p><i>Roblox Studio, Lua, Blender</i></p>
+      <p><i><a href="https://www.roblox.com/share?code=40ee36eb2dff294dbb78149939b88662&type=ExperienceDetails&stamp=1786362355498" target="_blank">https://www.roblox.com/share?code=40ee36eb2dff294dbb78149939b88662&type=ExperienceDetails&stamp=1786362355498</a></i></p>
     </td>
     <td width="50%">
       <h3>🌍 VISTA (Urban Vitality Index)</h3>
